@@ -1,0 +1,11 @@
+C:\diego\workshop\csharp\benchmark\bin\Debug\netcoreapp2.2\benchmark.deps.json
+C:\diego\workshop\csharp\benchmark\bin\Debug\netcoreapp2.2\benchmark.runtimeconfig.json
+C:\diego\workshop\csharp\benchmark\bin\Debug\netcoreapp2.2\benchmark.runtimeconfig.dev.json
+C:\diego\workshop\csharp\benchmark\bin\Debug\netcoreapp2.2\benchmark.dll
+C:\diego\workshop\csharp\benchmark\bin\Debug\netcoreapp2.2\benchmark.pdb
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.csprojAssemblyReference.cache
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.csproj.CoreCompileInputs.cache
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.AssemblyInfoInputs.cache
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.AssemblyInfo.cs
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.dll
+C:\diego\workshop\csharp\benchmark\obj\Debug\netcoreapp2.2\benchmark.pdb
